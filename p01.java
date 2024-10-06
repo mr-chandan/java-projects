@@ -1,7 +1,7 @@
 // 1. Program to find the transpose of a matrix.
 import java.util.Scanner;
 
-public class TransposeMatrix {
+public class p01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number of rows and columns:");

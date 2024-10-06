@@ -28,7 +28,7 @@ class Student {
     }
 }
 
-public class StudentTest {
+public class p13 {
     public static void main(String[] args) {
         Student student1 = new Student("Alice");
         Student student2 = new Student("Bob", 20);

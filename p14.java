@@ -27,7 +27,7 @@ class OutputClass extends ProcessClass {
     }
 }
 
-public class StudentResult {
+public class p14 {
     public static void main(String[] args) {
         OutputClass student = new OutputClass();
         student.getMarks(85, 90, 80);

@@ -1,5 +1,5 @@
 // 3. To check which one is executed first, static block or static method.
-public class StaticBlockVsMethod {
+public class p03 {
     static {
         System.out.println("Static block is executed first.");
     }

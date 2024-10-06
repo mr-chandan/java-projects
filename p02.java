@@ -1,7 +1,7 @@
 // 2. Write a java program to read a matrix and find the largest and smallest value in the matrix and interchange their positions.
 import java.util.Scanner;
 
-public class MatrixMinMax {
+public class p02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number of rows and columns:");

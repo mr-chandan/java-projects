@@ -40,7 +40,7 @@ class Circle extends Shape {
     }
 }
 
-public class ShapeTest {
+public class p08 {
     public static void main(String[] args) {
         Rectangle rect = new Rectangle(10, 5);
         Triangle tri = new Triangle(10, 8);

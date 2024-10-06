@@ -23,7 +23,7 @@ class Car extends Vehicle {
     }
 }
 
-public class VehicleTest {
+public class p12 {
     public static void main(String[] args) {
         Car myCar = new Car();
         myCar.start(); // Calls overridden method

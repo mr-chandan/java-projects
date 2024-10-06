@@ -10,7 +10,7 @@ class SubClassFinal extends FinalClass {
     // void display() { } // This would cause an error.
 }
 
-public class FinalKeywordExample {
+public class p11 {
     public static void main(String[] args) {
         SubClassFinal obj = new SubClassFinal();
         obj.display();

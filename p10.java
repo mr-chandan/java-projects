@@ -25,7 +25,7 @@ class Child extends Parent {
     }
 }
 
-public class ThisKeywordExample {
+public class p10 {
     public static void main(String[] args) {
         Child child = new Child("Mike", "John");
         child.display();

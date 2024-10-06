@@ -21,7 +21,7 @@ class SubClass extends SuperClass {
     }
 }
 
-public class SuperClassTest {
+public class p09 {
     public static void main(String[] args) {
         SubClass obj = new SubClass(100);
         obj.display();

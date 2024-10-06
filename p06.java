@@ -52,7 +52,7 @@ class Temporary extends Employee {
     }
 }
 
-public class EmployeeSalary {
+public class p06 {
     public static void main(String[] args) {
         Permanent permanentEmployee = new Permanent(101, "Alice", "Manager", 50000);
         System.out.println("Permanent Employee Salary:");
